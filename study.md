@@ -9,3 +9,4 @@
 - [From Nand to Tetris](https://www.nand2tetris.org/) - a course on building a computer from the ground up, from logic gates to operating systems.
 - [Typst](https://typst.app/) - a modern typesetting system that simpler than LaTeX, but still supports math and code formatting. Great for writing reports and notes.
 - [USACO Guide](https://usaco.guide) - A collection of competitive programming tutorials and many problems to practice with.
+- [Toggl Track](https://toggl.com) - versatile time tracker, with tracking of individual projects and possibility to enable billing control. Mobile app version is the best for studying.
