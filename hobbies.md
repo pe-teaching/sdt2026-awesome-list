@@ -25,7 +25,7 @@
 - [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/explore) - Great free tabs for guitar. It offers strumming patterns, auto-scrolling and transposition.
 ## Music
 - [Songless](https://lessgames.com/songless) - free daily song guessing game. Similar to wordle but with songs.
-- [Spotle](https://spotle.io/) - free daily music artist guessing game inspired by Wordle. 
+- [Spotle](https://spotle.io/) - Spotle is a daily music puzzle game inspired by Wordle where the goal is to guess the mystery recording artist or band in 10 attempts or fewer. 
 ## Sports
 - [Basketball](https://en.wikipedia.org/wiki/Basketball) - Team sport that improves fitness, teamwork, and coordination while providing a fun and social activity.
 - [Volleyball](https://en.wikipedia.org/wiki/Volleyball) - Team sport that improves teamwork, and communication while keeping players active and engaged.
