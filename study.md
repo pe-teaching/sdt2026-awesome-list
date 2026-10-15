@@ -10,3 +10,4 @@
 - [Typst](https://typst.app/) - a modern typesetting system that simpler than LaTeX, but still supports math and code formatting. Great for writing reports and notes.
 - [USACO Guide](https://usaco.guide) - A collection of competitive programming tutorials and many problems to practice with.
 - [USACO](https://usaco.org) - free, structured competitive programming curriculum from beginner to advanced, with problems sorted by topic and difficulty, good for learning algorithms systematically.
+- [Toggl Track](https://toggl.com) - versatile time tracker, with tracking of individual projects and possibility to enable billing control. Mobile app version is the best for studying.
