@@ -13,3 +13,4 @@
 ## Outdoors & Fitness
 - [Komoot](https://www.komoot.com) - route planner for hiking and cycling with maps of trails, parks, and day trips nearby, a good way to get outside and away from the screen after long study sessions.
 - [Strava](https://www.strava.com/) - a social network where runners, cyclists, hikers, and swimmers track and share their activities.
+- [AllTrails](https://www.alltrails.com) - a trail discovery platform with route maps, reviews, photos, and navigation tools for hikers and outdoor explorers.
