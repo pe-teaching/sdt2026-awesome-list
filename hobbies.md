@@ -14,3 +14,4 @@
 - [BattleSnake](https://play.battlesnake.com) - a multiplayer programming game where you code your own snake and compete against other players' snakes in an arena.
 - [GeoGuessr](https://www.geoguessr.com/) - a game where you're dropped somewhere in the world via Street View and have to guess the location.
 - [picoCTF](https://picoctf.org/) - a beginner-friendly capture-the-flag competition, with challenges in cryptography, reverse engineering, and web security.
+- [Ludum Dare](https://ldjam.com) - a game development community where people create, share, and play games made by developers from around the world.
