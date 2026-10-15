@@ -19,6 +19,7 @@
 - [Lichess](https://lichess.org) - free and open-source chess site with puzzles and no ads.
 - [Chess.com](https://chess.com) - an online chess platform with multiplayer games, puzzles, lessons, and tournaments.
 - [GeoGuessr](https://www.geoguessr.com/) - a game where you're dropped somewhere in the world via Street View and have to guess the location.
+- [Catan Universe](https://catanuniverse.com) - a digital version of Catan .
 ## Hardware, Game Dev & Creative hobbies
 - [Meshcore](https://meshcore.io) - open-source decentralized radio communication that works entirely without internet or cellular connection. Requires some initial investments in the hardware, but is a great starting point in learning embedded electronics and radio.
 - [Ludum Dare](https://ldjam.com) - a game development community where people create, share, and play games made by developers from around the world.
