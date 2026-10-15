@@ -26,7 +26,7 @@
 ## Music
 - [Songless](https://lessgames.com/songless) - free daily song guessing game. Similar to wordle but with songs.
 - [Spotle](https://spotle.io/) - Spotle is a daily music puzzle game inspired by Wordle where the goal is to guess the mystery recording artist or band in 10 attempts or fewer. 
-- [Radio Garden](https://radio.garden) - explore live radio stations.
+- [Radio Garden](https://radio.garden) - explore live radio stations from around the world and discover music from different cultures.
 ## Sports
 - [Basketball](https://en.wikipedia.org/wiki/Basketball) - Team sport that improves fitness, teamwork, and coordination while providing a fun and social activity.
 - [Volleyball](https://en.wikipedia.org/wiki/Volleyball) - Team sport that improves teamwork, and communication while keeping players active and engaged.
