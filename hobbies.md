@@ -35,3 +35,4 @@
 - [Volleyball](https://en.wikipedia.org/wiki/Volleyball) - Team sport that improves teamwork, and communication while keeping players active and engaged.
 - [Geocaching](https://www.geocaching.com) - an outdoor treasure-hunting activity where participants use GPS coordinates to find hidden containers.
 - [Worldle](https://worldle.teuteuf.fr) - a daily geography game where players identify a country from its shape and receive distance and direction clues.
+- [Jigsaw Explorer](https://www.jigsawexplorer.com) - an online collection of free jigsaw puzzles with different images, difficulty levels, and piece counts.
