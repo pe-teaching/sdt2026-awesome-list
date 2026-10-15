@@ -10,3 +10,4 @@
 - [Atcoder](https://atcoder.jp/) - another competitive programming platform with weekly contests and useful problem sheets.
 - [regex101](https://regex101.com) - test and debug regular expressions with a live explanation of each part.
 - [Hyperskill](https://hyperskill.org/courses) - a project-based learning platform for developing programming skills through hands-on courses and real-world projects
+- [Compiler Explorer](https://godbolt.org/) - explore how C++ and other languages compile into assembly, compare compiler optimizations, and understand low-level code.
