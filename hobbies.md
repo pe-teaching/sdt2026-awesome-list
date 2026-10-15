@@ -15,7 +15,9 @@
 - [BattleSnake](https://play.battlesnake.com) - a multiplayer programming game where you code your own snake and compete against other players' snakes in an arena.
 - [GeoGuessr](https://www.geoguessr.com/) - a game where you're dropped somewhere in the world via Street View and have to guess the location.
 - [picoCTF](https://picoctf.org/) - a beginner-friendly capture-the-flag competition, with challenges in cryptography, reverse engineering, and web security.
-- [Strava](https://www.strava.com) - track your runs and rides and share them with friends.
 - [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/explore) - Great free tabs for guitar. It offers strumming patterns, auto-scrolling and transposition.
 - [Ludum Dare](https://ldjam.com) - a game development community where people create, share, and play games made by developers from around the world.
 - [Basketball](https://en.wikipedia.org/wiki/Basketball) - Team sport that improves fitness, teamwork, and coordination while providing a fun and social activity.
+- [Volleyball](https://en.wikipedia.org/wiki/Volleyball) - Team sport that improves teamwork, and communication while keeping players active and engaged.
+- [Songless](https://lessgames.com/songless) - free daily song guessing game. Similar to wordle but with songs. 
+- [Itch.io](https://itch.io) - thousands of free indie games, plus game jams you can join.
