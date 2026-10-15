@@ -4,6 +4,7 @@
 - [Advent of Code](https://adventofcode.com) - a programming puzzle every day in December, fun to solve together with classmates.
 - [Lichess](https://lichess.org) - free and open-source chess site with puzzles and no ads.
 - [Wordle](https://www.nytimes.com/games/wordle) - Wordle is a daily word puzzle where you have six tries to guess a hidden five-letter word. After each guess, the tiles change color to give you hints
+- [Connections](https://www.nytimes.com/games/connections) - Connections is a NewYorkTimes's game where you have 16 words and need to group them into 4 groups of 4 words each by some unknown metric.
 - [Battlecode](https://2026a.battlecode.co.uk/) - fun competition to do with friends where you have to create your own bots and battle against other teams.
 - [Codewars](https://codewars.com) - programming community where you can compete with other players to improve your coding skills.
 - [Chess.com](https://chess.com) - an online chess platform with multiplayer games, puzzles, lessons, and tournaments.
