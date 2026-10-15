@@ -5,6 +5,7 @@
 - [Battlecode](https://2026a.battlecode.co.uk/) - fun competition to do with friends where you have to create your own bots and battle against other teams.
 - [BattleSnake](https://play.battlesnake.com) - a multiplayer programming game where you code your own snake and compete against other players' snakes in an arena.
 - [Codewars](https://codewars.com) - programming community where you can compete with other players to improve your coding skills.
+- [Exercism](https://exercism.org) - a platform for practicing coding through hands-on exercises, mentoring, and feedbaack to improve your programming skills.
 ## Math, Logic & Puzzle games
 - [Project Euler](https://projecteuler.net/) - a collection of mathematical and programming puzzles that get progressively harder. Great for practicing algorithms and math while having fun solving problems in any language.
 - [Wordle](https://www.nytimes.com/games/wordle) - Wordle is a daily word puzzle where you have six tries to guess a hidden five-letter word. After each guess, the tiles change color to give you hints
