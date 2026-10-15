@@ -21,4 +21,4 @@
 - [Volleyball](https://en.wikipedia.org/wiki/Volleyball) - Team sport that improves teamwork, and communication while keeping players active and engaged.
 - [Songless](https://lessgames.com/songless) - free daily song guessing game. Similar to wordle but with songs. 
 - [Itch.io](https://itch.io) - thousands of free indie games, plus game jams you can join.
-
+- [Sudoku](https://sudoku.com) - Sudoku is a fun logic puzzle where you fill a grid so every row, column, and block has all the numbers from 1-9 without repeating.
