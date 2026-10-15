@@ -9,3 +9,4 @@
 - [From Nand to Tetris](https://www.nand2tetris.org/) - a course on building a computer from the ground up, from logic gates to operating systems.
 - [Typst](https://typst.app/) - a modern typesetting system that simpler than LaTeX, but still supports math and code formatting. Great for writing reports and notes.
 - [USACO Guide](https://usaco.guide) - A collection of competitive programming tutorials and many problems to practice with.
+- [USACO](https://usaco.org) - free, structured competitive programming curriculum from beginner to advanced, with problems sorted by topic and difficulty, good for learning algorithms systematically.
