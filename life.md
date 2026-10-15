@@ -9,7 +9,8 @@
 - [Bakeries](https://www.tripadvisor.de/Restaurants-g187325-zfg9901-Bremen.html) - A list of the best bakeries in the city for tourists.
 - [Vytal](https://www.vytal.org) - app for borrowing reusable containers in Constructor University serveries. Great for taking your food out with sustainability in mind
 ## Secondhand & Shopping
-- [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/bremen/) - site for buying used, resold, or small business's things, usually for a cheaper price. 
+- [Kleinanzeigen](https://www.kleinanzeigen.de/stadt/bremen/) - site for buying used, resold, or small business's things, usually for a cheaper price.
+- [Vinted](https://www.vinted.de/) - A marketplace for second-hand goods with convenient delivery and pickup options. Pickup codes are sent directly to you, so you generally don't need to register an EU identity document with the delivery provider.
 ## Outdoors & Fitness
 - [Komoot](https://www.komoot.com) - route planner for hiking and cycling with maps of trails, parks, and day trips nearby, a good way to get outside and away from the screen after long study sessions.
 - [Strava](https://www.strava.com/) - a social network where runners, cyclists, hikers, and swimmers track and share their activities.
