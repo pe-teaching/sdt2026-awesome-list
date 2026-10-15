@@ -24,6 +24,7 @@
 - [Meshcore](https://meshcore.io) - open-source decentralized radio communication that works entirely without internet or cellular connection. Requires some initial investments in the hardware, but is a great starting point in learning embedded electronics and radio.
 - [Ludum Dare](https://ldjam.com) - a game development community where people create, share, and play games made by developers from around the world.
 - [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/explore) - Great free tabs for guitar. It offers strumming patterns, auto-scrolling and transposition.
+- [Arduino Project Huv](https://projecthub.arduino.cc) - a community platform with tutorials and project ideas for building interactive electronics using Arduino boards and components.
 ## Music
 - [Songless](https://lessgames.com/songless) - free daily song guessing game. Similar to wordle but with songs.
 - [Spotle](https://spotle.io/) - Spotle is a daily music puzzle game inspired by Wordle where the goal is to guess the mystery recording artist or band in 10 attempts or fewer. 
