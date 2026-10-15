@@ -6,4 +6,4 @@
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - a collection of tutorials for building your own implementations of various software, frameworks, and tools.
 - [codeforces.com](https://codeforces.com) - a leading competitive programming platform with useful tutorials and weekly contests.
 - [Notion](https://notion.com) - use it to schedule tasks, divide roles, write to-do items as all. If you do video editing, teach students, or anything like that. You can use it.
-- [codeforces.com](https://codeforces.com) - a leading competitive programming platform with useful tutorials and weekly contests.
+- [Atcoder](https://atcoder.jp/) - another competitive programming platform with weekly contests and useful problem sheets.
