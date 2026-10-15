@@ -3,4 +3,4 @@
 - [Codingame](https://codingame.com) — if you're bored with regular competitive programming, Codingame hosts multiplayer bot challenges 2–3 times a year. More complex, but still beginner-friendly: Ultimate Tic Tac Toe, Tron, and many original games.
 - [Advent of Code](https://adventofcode.com) - a programming puzzle every day in December, fun to solve together with classmates.
 - [Lichess](https://lichess.org) - free and open-source chess site with puzzles and no ads.
-- [Wordle](https://www.nytimes.com/games/wordle/index.html?eafs_enabled=false) - a website for guessing a word. Everybody knows it :)
+- [Wordle](https://www.nytimes.com/games/wordle) - Wordle is a daily word puzzle where you have six tries to guess a hidden five-letter word. After each guess, the tiles change color to give you hints
