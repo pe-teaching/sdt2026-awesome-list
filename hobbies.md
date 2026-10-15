@@ -5,6 +5,7 @@
 - [Battlecode](https://2026a.battlecode.co.uk/) - fun competition to do with friends where you have to create your own bots and battle against other teams.
 - [BattleSnake](https://play.battlesnake.com) - a multiplayer programming game where you code your own snake and compete against other players' snakes in an arena.
 - [Codewars](https://codewars.com) - programming community where you can compete with other players to improve your coding skills.
+- [Exercism](https://exercism.org) - a platform for practicing coding through hands-on exercises, mentoring, and feedback to improve your programming skills.
 ## Math, Logic & Puzzle games
 - [Project Euler](https://projecteuler.net/) - a collection of mathematical and programming puzzles that get progressively harder. Great for practicing algorithms and math while having fun solving problems in any language.
 - [Wordle](https://www.nytimes.com/games/wordle) - Wordle is a daily word puzzle where you have six tries to guess a hidden five-letter word. After each guess, the tiles change color to give you hints
@@ -12,7 +13,11 @@
 - [Sudoku](https://sudoku.com) - Sudoku is a fun logic puzzle where you fill a grid so every row, column, and block has all the numbers from 1-9 without repeating.
 - [Fermi](https://fermi.gg/) - Fermi is a daily estimation puzzle game. You get three questions and one guess each, to land as close to the real answer as possible.
 - [Everybody Codes](https://everybody.codes) - a programming platform that offers coding challenges and puzzles to solve using algorithms, logic, and problem-solving skills.
+
 - [NandGame](https://nandgame.com/) - a free browser game where you build a working computer from NAND gates, step by step. Great for understanding how hardware and logic work.
+
+- [Vim Adventures](https://vim-adventures.com/) - a game that teaches you Vim motions and commands by playing a Zelda-like adventure. Great for finally learning Vim in a fun and memorable way.
+
 ## Cybersecurity (CTF) & Wargames
 - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — a beginner-friendly wargame that teaches Linux command-line basics through a series of levels. Each level requires finding a password to advance, making it a fun way to learn shell commands, file navigation, and problem-solving.
 - [TryHackMe](https://tryhackme.com/) - a hands-on cybersecurity platform with guided rooms and CTF-style challenges. It goes beyond Linux basics into networking, web exploitation, and more.
