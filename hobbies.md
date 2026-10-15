@@ -12,3 +12,4 @@
 - [Project Euler](https://projecteuler.net/) - a collection of mathematical and programming puzzles that get progressively harder. Great for practicing algorithms and math while having fun solving problems in any language.
 - [TryHackMe](https://tryhackme.com/) - a hands-on cybersecurity platform with guided rooms and CTF-style challenges. It goes beyond Linux basics into networking, web exploitation, and more.
 - [GeoGuessr](https://www.geoguessr.com/) - a game where you're dropped somewhere in the world via Street View and have to guess the location.
+- [picoCTF](https://picoctf.org/) - a beginner-friendly capture-the-flag competition, with challenges in cryptography, reverse engineering, and web security.
