@@ -5,3 +5,4 @@
 - [JetBrains Kairos](https://kairos.jetbrains.com/) - research and essays on how AI is changing software development. Developer surveys, benchmarks, datasets, and experiments on human–AI coding and next-generation developer tools.
 - [codeforces.com](https://codeforces.com) - a leading competitive programming platform with useful tutorials and weekly contests.
 - [Stackoverflow](https://stackoverflow.com) - a large forum where all kinds of programming questions are discussed.
+- [Notion](https://notion.com) - use it to schedule tasks, divide roles, write to-do items as all. If you do video editing, teach students, or anything like that. You can use it.
