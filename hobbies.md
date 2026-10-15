@@ -4,3 +4,4 @@
 - [Advent of Code](https://adventofcode.com) - a programming puzzle every day in December, fun to solve together with classmates.
 - [Lichess](https://lichess.org) - free and open-source chess site with puzzles and no ads.
 - [Battlecode](https://2026a.battlecode.co.uk/) - fun competition to do with friends where you have to create your own bots and battle against other teams.
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — a beginner-friendly wargame that teaches Linux command-line basics through a series of levels. Each level requires finding a password to advance, making it a fun way to learn shell commands, file navigation, and problem-solving.
