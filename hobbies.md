@@ -31,4 +31,4 @@
 - [Basketball](https://en.wikipedia.org/wiki/Basketball) - Team sport that improves fitness, teamwork, and coordination while providing a fun and social activity.
 - [Volleyball](https://en.wikipedia.org/wiki/Volleyball) - Team sport that improves teamwork, and communication while keeping players active and engaged.
 - [Geocaching](https://www.geocaching.com) - an outdoor treasure-hunting activity where participants use GPS coordinates to find hidden containers.
-- [Worldle](https://worldle.teuteuf.fr) - a daily geography game where players identify 
+- [Worldle](https://worldle.teuteuf.fr) - a daily geography game where players identify a country from its shape and receive distance and direction clues.
