@@ -9,3 +9,4 @@
 - [Atcoder](https://atcoder.jp/) - another competitive programming platform with weekly contests and useful problem sheets.
 - [regex101](https://regex101.com) - test and debug regular expressions with a live explanation of each part.
 - [Compiler Explorer](https://godbolt.org/) - explore how C++ and other languages compile into assembly, compare compiler optimizations, and understand low-level code.
+- [LinkedIn Learning](https://www.linkedin.com/learning/) - online courses covering technology, business, and creative skills for professional development.
