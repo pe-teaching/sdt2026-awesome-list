@@ -5,12 +5,19 @@
 - [Battlecode](https://2026a.battlecode.co.uk/) - fun competition to do with friends where you have to create your own bots and battle against other teams.
 - [BattleSnake](https://play.battlesnake.com) - a multiplayer programming game where you code your own snake and compete against other players' snakes in an arena.
 - [Codewars](https://codewars.com) - programming community where you can compete with other players to improve your coding skills.
+- [Exercism](https://exercism.org) - a platform for practicing coding through hands-on exercises, mentoring, and feedback to improve your programming skills.
 ## Math, Logic & Puzzle games
 - [Project Euler](https://projecteuler.net/) - a collection of mathematical and programming puzzles that get progressively harder. Great for practicing algorithms and math while having fun solving problems in any language.
 - [Wordle](https://www.nytimes.com/games/wordle) - Wordle is a daily word puzzle where you have six tries to guess a hidden five-letter word. After each guess, the tiles change color to give you hints
 - [Connections](https://www.nytimes.com/games/connections) - Connections is a NewYorkTimes' game where you have 16 words and need to group them into 4 groups of 4 words each by some unknown metric.
 - [Sudoku](https://sudoku.com) - Sudoku is a fun logic puzzle where you fill a grid so every row, column, and block has all the numbers from 1-9 without repeating.
 - [Fermi](https://fermi.gg/) - Fermi is a daily estimation puzzle game. You get three questions and one guess each, to land as close to the real answer as possible.
+- [Everybody Codes](https://everybody.codes) - a programming platform that offers coding challenges and puzzles to solve using algorithms, logic, and problem-solving skills.
+
+- [NandGame](https://nandgame.com/) - a free browser game where you build a working computer from NAND gates, step by step. Great for understanding how hardware and logic work.
+
+- [Vim Adventures](https://vim-adventures.com/) - a game that teaches you Vim motions and commands by playing a Zelda-like adventure. Great for finally learning Vim in a fun and memorable way.
+
 ## Cybersecurity (CTF) & Wargames
 - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) — a beginner-friendly wargame that teaches Linux command-line basics through a series of levels. Each level requires finding a password to advance, making it a fun way to learn shell commands, file navigation, and problem-solving.
 - [TryHackMe](https://tryhackme.com/) - a hands-on cybersecurity platform with guided rooms and CTF-style challenges. It goes beyond Linux basics into networking, web exploitation, and more.
@@ -19,13 +26,19 @@
 - [Lichess](https://lichess.org) - free and open-source chess site with puzzles and no ads.
 - [Chess.com](https://chess.com) - an online chess platform with multiplayer games, puzzles, lessons, and tournaments.
 - [GeoGuessr](https://www.geoguessr.com/) - a game where you're dropped somewhere in the world via Street View and have to guess the location.
+- [Catan Universe](https://catanuniverse.com) - a digital version of Catan where players collect resources, build settlements, and compete for victory points.
 ## Hardware, Game Dev & Creative hobbies
 - [Meshcore](https://meshcore.io) - open-source decentralized radio communication that works entirely without internet or cellular connection. Requires some initial investments in the hardware, but is a great starting point in learning embedded electronics and radio.
 - [Ludum Dare](https://ldjam.com) - a game development community where people create, share, and play games made by developers from around the world.
 - [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/explore) - Great free tabs for guitar. It offers strumming patterns, auto-scrolling and transposition.
+- [Arduino Project Hub](https://projecthub.arduino.cc) - a community platform with tutorials and project ideas for building interactive electronics using Arduino boards and components.
 ## Music
 - [Songless](https://lessgames.com/songless) - free daily song guessing game. Similar to wordle but with songs.
 - [Spotle](https://spotle.io/) - Spotle is a daily music puzzle game inspired by Wordle where the goal is to guess the mystery recording artist or band in 10 attempts or fewer. 
+- [Radio Garden](https://radio.garden) - explore live radio stations from around the world and discover music from different cultures.
 ## Sports
 - [Basketball](https://en.wikipedia.org/wiki/Basketball) - Team sport that improves fitness, teamwork, and coordination while providing a fun and social activity.
 - [Volleyball](https://en.wikipedia.org/wiki/Volleyball) - Team sport that improves teamwork, and communication while keeping players active and engaged.
+- [Geocaching](https://www.geocaching.com) - an outdoor treasure-hunting activity where participants use GPS coordinates to find hidden containers.
+- [Worldle](https://worldle.teuteuf.fr) - a daily geography game where players identify a country from its shape and receive distance and direction clues.
+- [Jigsaw Explorer](https://www.jigsawexplorer.com) - an online collection of free jigsaw puzzles with different images, difficulty levels, and piece counts.

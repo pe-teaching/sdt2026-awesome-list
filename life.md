@@ -15,3 +15,4 @@
 - [Strava](https://www.strava.com/) - a social network where runners, cyclists, hikers, and swimmers track and share their activities.
 ## On campus issues
 - [Campus IT Support](https://constructoruniversity.sharepoint.com/:u:/r/sites/ConstructorUniversityIT/SitePages/Students.aspx?d=w4bfa75de48fa4475bce54b4fe2b5c859&csf=1&web=1&e=XxFgXu) - request Ethernet access and download printer drivers (link requires Microsoft login, may redirect bots away).
+- [AllTrails](https://www.alltrails.com) - a trail discovery platform with route maps, reviews, photos, and navigation tools for hikers and outdoor explorers.
